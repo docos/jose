@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/SermoDigital/jose"
-	"github.com/SermoDigital/jose/crypto"
+	"github.com/docos/jose"
+	"github.com/docos/jose/crypto"
 )
 
 var dataRaw = struct {
